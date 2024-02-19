@@ -1,87 +1,87 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model 🖐️ used
   - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
+  - Subject domain 
+  - Algorithm 🖐️ used
+  - Syntax 🖐️ used
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Abstraction 🖐️ used
+  - Paradigm 🖐️ used
+  - Programm 🖐️ used
+  - Programming paradigm 🖐️ used
+  - Programming language 🖐️ used
+  - Contract 🎓 known 
+  - Module 🖐️ used
+  - Library 🖐️ used
+  - Package 🖐️ used
+  - Component 🙋 explained
+  - Framework 🖐️ used
+  - Platform 👂 heard
+  - Source code 🖐️ used
+  - Object code 
+  - Machine code 🎓 known
   - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Software engineering 🖐️ used
+  - Decomposition 🙋 explained
+  - Control flow 🙋 explained
+  - Data flow 🖐️ used
+  - Code reuse 🙋 explained
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) 🙋 explained
+  - KISS principle 🙋 explained
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Value 🙋 explained
+  - Identifier 🙋 explained
+  - Variable 🙋 explained
+  - Constant 🙋 explained
+  - Scalar 🙋 explained
+  - Literal 🙋 explained
+  - Expression 🖐️ used
+  - Heap 🎓 known
+  - Function 🙋 explained
+  - Procedure 🎓 known
+  - Method 🙋 explained
+  - Class 🙋 explained
+  - Prototype 🙋 explained
+  - Event 🙋 explained
+  - Type 🙋 explained
+  - Flag 🖐️ used
+  - Lexical scope 🖐️ used
+  - Code block 🖐️ used
+  - Conditions 🖐️ used
+  - Loops 🖐️ used
+  - Assignment 
   - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Interface 🖐️ used
+  - Namespaces 🖐️ used
+  - Call stack 🖐️ used
+  - Naming conventions 🖐️ used
+  - Coding conventions 🖐️ used
+  - Camel case 🙋 explained
+  - Snake case 🙋 explained
   - Kebab case
-  - Trailing commas
-  - Return early
+  - Trailing commas 🖐️ used
+  - Return early 🙋 explained
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typeing
+  - Primitive types 🖐️ used
+  - Reference types 🖐️ used
+  - Type systems 🖐️ used
+  - Strong typing 🎓 known
+  - Weak typeing 🖐️ used
   - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
+  - Static typing 🖐️ used
+  - Dynamic typing 🖐️ used
+  - Nominal typing 
   - Structural typing
   - Explicit typing
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
+  - Signature 🖐️ used
   - Argument
   - Parameter
   - Pure function
